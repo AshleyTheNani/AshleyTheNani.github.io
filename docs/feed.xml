@@ -9,8 +9,31 @@
     <atom:link href="https://ashleythenani.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 28 May 2021 13:33:39 GMT</pubDate>
+    <pubDate>Wed, 23 Jun 2021 08:38:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://ashleythenani.github.io/2021/06/23/20210623173830_hello_world/</link>
+      <guid>https://ashleythenani.github.io/2021/06/23/20210623173830_hello_world/</guid>
+      <pubDate>Wed, 23 Jun 2021 17:38:30 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;hi how are you&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>hi how are you</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://ashleythenani.github.io/2021/06/23/20210623173830_hello_world/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
